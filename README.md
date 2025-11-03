@@ -1,4 +1,5 @@
 # 🚀 Project Timeline & Role Management System
+<img width="1920" height="1835" alt="Project-Timeline(3)" src="https://github.com/user-attachments/assets/53ee4bb1-46b7-4863-baa1-294a8fc3f85e" />
 
 Sebuah aplikasi web berbasis **CodeIgniter 4** yang dirancang untuk mengelola proyek, peran tim, serta timeline pengembangan dengan tampilan modern dan ringan.  
 Project ini mendukung manajemen feature, role, serta estimasi waktu dengan otomatisasi perhitungan durasi dan biaya.
@@ -39,6 +40,7 @@ Project ini mendukung manajemen feature, role, serta estimasi waktu dengan otoma
   - Durasi dari `start_date` ke `end_date`.
   - Total biaya berdasarkan `rate_per_day`.
 - Tampilan data tabel rapi dengan border dan hover highlight.
+<img width="1920" height="1835" alt="Project-Timeline(4)" src="https://github.com/user-attachments/assets/5d1b5a09-0e6c-40bd-b1f8-40b65521cddb" />
 
 ### 📊 4. Project Overview Dashboard
 - Menampilkan ringkasan proyek:
